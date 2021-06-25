@@ -9,4 +9,4 @@ app.get("/about",(req,res) => res.sendFile(path.join(__dirname,"views","about.ht
 app.get("/contact",(req,res) => res.sendFile(path.join(__dirname,"views","contact.html")))
 app.get("/music",(req,res) => res.sendFile(path.join(__dirname,"views","music.html")))
 
-app.listen(port,() => console.log(`Server running in http://localhost:${port}`) )
+app.listen(port,() => console.log(`Server running in http://localhost:${port}`))
