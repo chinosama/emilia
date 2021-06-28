@@ -4,3 +4,33 @@
     background-size: 75%;
     background-position: right -90px;
 }
+
+.home h1, .home h2{
+    text-transform: uppercase;
+}
+
+.home header nav{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.home header nav ul li a{
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.home h1{
+    font-family: var(--font-titulo);
+    background-color: rgba(255, 255,255, 0.5);
+    margin-top: var(--fontSize-titulo);
+    font-size: 92px;
+}
+
+.home h2{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 30px;
+    margin-top: 150px;
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 200;
+}

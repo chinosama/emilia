@@ -5,7 +5,7 @@
 @import url("contact.css");
 
 a{
-    color: red;
+    color: rgb(0, 0, 0);
 }
 a.twitter{
     color: lightblue;
