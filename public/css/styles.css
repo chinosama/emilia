@@ -3,6 +3,7 @@
 @import url("about.css");
 @import url("music.css");
 @import url("contact.css");
+@import url("header.css");
 
 a{
     color: rgb(0, 0, 0);

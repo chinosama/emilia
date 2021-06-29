@@ -9,15 +9,7 @@
     text-transform: uppercase;
 }
 
-.home header nav{
-    margin-left: 30px;
-    margin-top: 20px;
-}
 
-.home header nav ul li a{
-    text-transform: uppercase;
-    line-height: 40px;
-}
 
 .home h1{
     font-family: var(--font-titulo);
