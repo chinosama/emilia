@@ -9,6 +9,7 @@ font-family: 'Work Sans', sans-serif;
 :root{
     --font-titulo: 'Raleway', sans-serif;
     --fontSize-titulo: 200px;
+    --colorVerde: seagreen;
 }
 
 *{
